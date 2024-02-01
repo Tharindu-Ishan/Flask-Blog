@@ -44,12 +44,14 @@ body {
   .article-content {
     white-space: pre-line;
   }
-  
-  .article-img {
-    height: 65px;
-    width: 65px;
+  img{
+    height: 50px;
+    width: 50px;
     margin-right: 16px;
   }
+  
+  
+  
   
   .article-metadata {
     padding-bottom: 1px;
